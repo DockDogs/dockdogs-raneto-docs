@@ -7,7 +7,7 @@ var config = {
   site_title: 'DockDogs Knowledge Base',
 
   // The base URL of your site (can use %base_url% in Markdown files)
-  base_url: '',
+  base_url: 'https://evening-temple-72138.herokuapp.com/',
 
   // Used for the "Get in touch" page footer link
   support_email: '',
